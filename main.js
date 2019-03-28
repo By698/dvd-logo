@@ -9,8 +9,6 @@ logoElement.style.height = "100px";
 backgroundElement.style.width = "1200px";
 backgroundElement.style.height = "550px";
 
-let ran
-
 let animation = function () {
     let currentY = parseInt(logoElement.style.top);
     let currentX = parseInt(logoElement.style.left);
