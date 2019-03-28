@@ -1,5 +1,5 @@
-let velocityX = -100;
-let velocityY = -100;
+let velocityX = -2;
+let velocityY = -2;
 let logoElement = document.getElementById("logo");
 let backgroundElement = document.getElementById("background");
 logoElement.style.top = "0px";
@@ -27,7 +27,7 @@ let animation = function () {
     logoElement.style.top = (currentY + velocityY) + "px";
     logoElement.style.left = (currentX + velocityX) + "px";
 
-    //window.requestAnimationFrame(animation);
+    window.requestAnimationFrame(animation);
 }
-var timer = window.setInterval(animation);
-//animation();
+//var timer = window.setInterval(animation);
+animation();
