@@ -7,7 +7,7 @@ logoElement.style.left = "0px";
 logoElement.style.width = "200px";
 logoElement.style.height = "100px";
 backgroundElement.style.width = "1200px";
-backgroundElement.style.height = "600px";
+backgroundElement.style.height = "550px";
 
 let ran
 
