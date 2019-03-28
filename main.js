@@ -4,10 +4,10 @@ let logoElement = document.getElementById("logo");
 let backgroundElement = document.getElementById("background");
 logoElement.style.top = "0px";
 logoElement.style.left = "0px";
-logoElement.style.width = "400px";
-logoElement.style.height = "200px";
-backgroundElement.style.width = "1300px";
-backgroundElement.style.height = "700px";
+logoElement.style.width = "200px";
+logoElement.style.height = "100px";
+backgroundElement.style.width = "1200px";
+backgroundElement.style.height = "600px";
 
 let ran
 
