@@ -2,7 +2,6 @@ let velocityX = -100;
 let velocityY = -100;
 let logoElement = document.getElementById("logo");
 let backgroundElement = document.getElementById("background");
-console.log(backgroundElement.style);
 logoElement.style.top = "0px";
 logoElement.style.left = "0px";
 logoElement.style.width = "400px";
