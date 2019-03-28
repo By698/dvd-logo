@@ -1,0 +1,16 @@
+body {
+    background: gray;
+}
+
+#background {
+    background-color: black;
+    width: 1600px;
+    height: 900px;
+    margin: auto;
+}
+
+#logo {
+    width: 400px;
+    height: 200px;
+    background-color: white;
+}

@@ -1,0 +1,16 @@
+body {
+    background: gray;
+}
+
+#background {
+    background-color: black;
+    margin: auto;
+    border: 15px solid #111111;
+    border-radius: 5px;
+}
+
+#logo {
+    background-color: white;
+    position: relative;
+    background: url(dvd.png);
+}
